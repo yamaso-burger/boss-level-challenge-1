@@ -10,6 +10,17 @@
 
 }
 
+.duel {
+  display: block;
+  margin: 20px auto;
+  padding: 3% 10%;
+  background-color: #F65A83;
+  font-family: 'Lobster', cursive;
+  font-size: 4rem;
+  border-style: none;
+  border-radius: 10px;
+}
+
 body {
   background-color: #393E46;
 }
